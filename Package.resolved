@@ -15,8 +15,8 @@
         "repositoryURL": "https://github.com/SDWebImage/libavif-Xcode.git",
         "state": {
           "branch": null,
-          "revision": "28be85d8693b8bc2ea3a4d323caf652e740b4683",
-          "version": "0.9.1"
+          "revision": "95551e4f2a0b256c9e746732d82138b904edefd3",
+          "version": "0.10.1"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/SDWebImage/SDWebImage.git",
         "state": {
           "branch": null,
-          "revision": "a6b6e44eadf0d39250c10a7cc0e3b91d0bdb0e94",
-          "version": "5.10.4"
+          "revision": "3312bf5e67b52fbce7c3caf431b0cda721a9f7bb",
+          "version": "5.14.2"
         }
       }
     ]

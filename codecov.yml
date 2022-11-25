@@ -1,6 +1,0 @@
-coverage:
-  status:
-    project:
-      default: off
-      ios:
-        flags: ios
